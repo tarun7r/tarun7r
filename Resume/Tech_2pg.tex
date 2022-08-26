@@ -1,0 +1,331 @@
+%\documentclass{article}
+\documentclass[10.2pt]{article}
+\usepackage[a4paper,bottom = 0.40in,left = 0.60in,right = 0.60in,top = 0.55in]{geometry}
+\usepackage{verbatim}
+\usepackage{lipsum}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{amsmath}
+\usepackage{booktabs} 
+\usepackage[dvipsnames]{xcolor}
+\definecolor{ceruleanblue}{rgb}{0.10, 0.28, 0.75}
+\usepackage{mathtools}
+\usepackage{array}
+\usepackage{url}
+\usepackage{color}
+\usepackage{enumitem}
+\usepackage{wrapfig}
+\usepackage{titlesec}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage[table]{xcolor}
+
+\newcommand{\xfilll}[2][1ex]{
+	\dimen0=#2\advance\dimen0 by #1
+	\leaders\hrule height \dimen0 depth -#1\hfill}
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}
+\renewcommand\labelitemi{\raisebox{0.4ex}{\tiny$\bullet$}}
+\renewcommand{\labelitemii}{$\cdot$}
+\thispagestyle{empty}
+\pagestyle{empty}
+
+%------------------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\small \colorbox{mygrey}{\begin{minipage}{0.975\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[3]{
+\begin{tabular*}{6.62in}{l @{\extracolsep{\fill}} r}
+	\textsc{{\textbf{#1}}} & \textsc{\textit{[#2]}} \\
+\end{tabular*}\vspace{-8pt}}
+
+%------------------------------------------------
+
+\begin{document}
+	
+\vspace*{3.7cm}  
+
+
+
+% ---------------- Scholastic Achievements ----------------------
+\section*{\color{ceruleanblue}Scholastic Achievements\xfilll[0pt]{0.5pt}}
+\vspace{-9pt}
+\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+    \item Achieved \textbf{99.90 percentile} in Joint Entrance Examination Mains among \textbf{1.2 Million candidates} \textit\hfill{\sl \small (2019)}
+    \item Achieved \textbf{99.57 percentile} in \textbf{IIT JEE Advanced} among \textbf{0.2 Million candidates} across India \textit\hfill{\sl \small (2019)}  
+    \item Secured \textbf{All India Rank 556} in \textbf{KVPY} and received the prestigious fellowship by \textbf{IISc-Bangalore} \textit\hfill{\sl \small (2018)}
+    \item Placed in \textbf{National Top 1 \%} in the National Standard Examination in \textbf{Physics  (NSEP) - IAPT}\textit\hfill{\sl \small (2018)}   
+\end{itemize}
+\vspace{-24pt}
+
+
+\section*{\color{ceruleanblue}Professional Experience\xfilll[0pt]{0.5pt}}
+\vspace{-9pt}
+% \textbf{Bank of America} \textbf{$|$} {\textit{Analyst Intern} \textbf{$|$} \textit{Equity Research}} \hfill{\sl \small (Jul'22 - Sep'22)}  	\\
+  %      \vspace{-0.3cm}
+   %    \hline
+    %    \vspace{-3pt}
+    
+     %   \begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+      %      \item Forecasted valuation through historical performance of 23+ IT stocks through financial statement analysis
+       %     \item Updated financial model metrics from profit \& loss, cash flow and balance of above companies in the reports
+%%        %    \item Assisted research analyst team in report preparation,to provide investors with an overview of the industry
+ %%       \end{itemize}
+ %   \vspace{-6pt}
+\textbf{Oracle Corporation} \textbf{$|$} {\textit{Software Development Intern} \textbf{$|$} \textit{Data Resiliency Checks}} \hfill{\sl \small (May'22 - Jul'22)}  	\\
+    \vspace{-0.3cm}
+    \hline
+    \vspace{-4pt}
+
+% \textbf{text} Bold 
+    \begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+        \item Developed software for \textbf{periodic and automated validation} of the relevant customer usage \textbf{information data}
+        \item Validation to ensure that \textbf{integrity} is achieved by cross-checking many metrics on both ends of the \textbf{data pipeline}
+        \item Setup an \textbf{email trigger} which alerts the concerned authority in case of inconsistencies found in metrics computed
+        \item Designed a dashboard and included key metrics that help developers to view statistics of customer usage information
+    \end{itemize}
+\vspace{-6pt}
+\textbf{AT\&T Global Business} \textbf{$|$} {\textit{Data Scientist Intern} \textbf{$|$} \textit{Digital Assistant}} \hfill{\sl \small (May'21 - Jun'21)}  	\\
+    \vspace{-0.3cm}
+    \hline
+    \vspace{-4pt}
+
+% \textbf{text} Bold 
+    \begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+        \item Developed a chatbot application using \textbf{Rasa framework} for automating statistical, analytical \& FAQ based queries
+        \item Applied \textbf{Tensorflow embedding} pipeline for understanding user input; extracting \textbf{intent \& entities} of the query
+        \item Used \textbf{dynamic SQL} queries \& pandas for extracting and analyzing data to produce a suitable response to the user
+
+    
+    \end{itemize}
+\vspace{-6pt}
+\textbf{IIM Bangalore} $|$ \textit{Research Internship} $|$ \textit{Prof. Anirudh Dhawan} \hfill{\sl \small (Nov'20 - Dec’20)}  \\
+  \vspace{-0.3cm}
+ \hline 
+ \vspace{-6pt}
+ \begin{flushleft}
+\textit{Received a \textbf{Letter of Recommendation} from the professor for exemplary performance during the winter internship}
+	%\textit{Built an elementary model for real-time monitoring and optimization of overall efficiency of batch mixing process} 
+ \end{flushleft}
+ \vspace{-19pt}
+	\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+      \item Performed \textbf{sentimental analysis} on RBI statements and correlated with \textbf{abnormal swings} in the stock market
+	  \item Tested \textbf{long-short strategies} on historical NSE stock data; a value-based strategy yielded a \textbf{16.4\%} annual return
+	\end{itemize}
+\vspace{-24pt}
+	
+\section*{\color{ceruleanblue}Key Projects\xfilll[0pt]{0.5pt}}
+\vspace{-9pt}
+\textbf{Blockchain-Based Voting Solution} $|$ \textit{SLP, IIT Bombay} \hfill{\sl \small (Aug'21 - Nov'21)} \\
+ \vspace{-0.3cm}
+ \hline 
+ \vspace{-4pt}
+ 
+ %\vspace{-11pt}
+	\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+     \item Developed an end-to-end \textbf{decentralized voting} platform to organize secure elections using the \textbf{Azure Blockchain}
+     \item Applied the concepts of \textbf{cryptography} to ensure the anonymity of voters on a public blockchain during the election
+     \item Constructed the front-end using \textbf{Angular} and implemented the service to encrypt and decrypt votes using Python 
+     %Constructed the front-end for the decentralized application using Angular | Implemented the service to encrypt and decrypt votes using Python
+\end{itemize}
+\vspace{-6pt}
+   \textbf{Automatic Speech Recognition System} $|$  \textit{Signal Processing, Course Project} \hfill{\sl \small (Aug'20 - Nov’20)} \\
+    \vspace{-0.3cm}
+    \hline 
+    \vspace{-4pt}    
+\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+    \item Built a Speech Recognition system using vector quantized \textbf{Codebook Matching} and \textbf{MFCC feature extraction}
+    \item Achieved \textbf{75.89\% accuracy} on clean set and\textbf{ 47.65\% accuracy} on noisy set of Google Speech Commands dataset
+\end{itemize}
+\vspace{-6pt}
+     \textbf{Option Pricing Models \& Their Accuracy} $|$  \textit{Manch 4.0, Deutsche Bank} \hfill{\sl \small (Jan’21 - May’21)} \\
+    \vspace{-0.3cm}
+    \hline 
+    \vspace{-4pt}    
+\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+    \item Delved into types of \textbf{Options \& Pricing methodology} to analyse drivers that explain the \textbf{pricing behaviour} 
+    \item Achieved an accuracy of \textbf{78\%} through \textbf{Neural Networks} against the Black Scholes Model of the accuracy of \textbf{58\%}
+\end{itemize}
+\vspace{-6pt}
+    \textbf{Algorithmic Trading System \& Dashboard} $|$  \textit{Algorithmic Trading, Self Project} \hfill{\sl \small (Jan’22 - Mar’22)} \\
+    \vspace{-0.3cm}
+    \hline 
+    \vspace{-4pt}    
+\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+    \item Designed and deployed a \textbf{Trading system} with a Python codebase on the \textbf{AWS Cloud} for optional 24/7 uptime
+    \item Integrated \textbf{Zerodha} KiteConnect \textbf{REST APIs,} autonomously placing \textbf{options} orders, using the generated triggers
+    \item Effected a \textbf{GUI} with configurable models like\textbf{ LSTMs, ARIMA} and displayed the \textbf{live results} in the dashboard 
+\end{itemize}
+\vspace{-6pt}
+     \textbf{IITB-RISC Processor} $|$  \textit{Processor Design, Course Project} \hfill{\sl \small (Mar’22 - Apr’22)} \\
+    \vspace{-0.3cm}
+    \hline 
+    \vspace{-4pt}    
+\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+    \item Designed \textbf{16-Bit, 6-Stage Pipeline processor}, based on Turing-Complete Instruction Set in VHDL from scratch
+    \item Programmed 14 Instructions including branch, arithmetic, \& memory interface; tested it on \textbf{Altera Nano FPGA}
+    \item Implemented a \textbf{6-stage pipelined processor} with Branch Predictors, Priority Encoders and the Hazard Detection
+\end{itemize}
+\vspace{-6pt}
+\textbf{Social Networking Website} $|$  \textit{ITSP IIT Bombay, Team Leader} \hfill{\sl \small (Mar'20 - Jun'20)} \\
+    \vspace{-0.3cm}
+    \hline 
+    \vspace{-4pt}    
+\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+    \item Developed a \textbf{Social Networking Website} with features of a Chat, News Feed, and Posts aimed at college students
+    \item Implemented a feature of \textbf{Auto Delete} of the posts in the News Feed after all the \textbf{targeted users} have viewed it
+    \item Designed the front-end of the website using \textbf{CSS \& HTML} and the back-end using \textbf{MySQL Connector \& PHP}
+\end{itemize}
+\newpage
+\section*{\color{ceruleanblue}Other Projects\xfilll[0pt]{0.5pt}}
+\vspace{-9pt}
+     \textbf{Cricket Score Board Simulator} $|$  \textit{Microprocessors, Course Project} \hfill{\sl \small (Mar’21 - Apr’21)} \\
+    \vspace{-0.3cm}
+    \hline 
+    \vspace{-4pt}
+\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+    \item Programmed a dynamic Cricket Score Board simulator on Embedded C using\textbf{ Keil µVision and Flip Software}
+    \item Made the Simulator interactive with the help of \textbf{USB to UART} adapter  \& demonstrated it via 16x2 LCD Display
+\end{itemize}
+\vspace{-6pt}
+ \textbf{Cryptocurrency Arbitrage Bot} $|$  \textit{Self Project} \hfill{\sl \small (June 2021)} \\
+    \vspace{-0.3cm}
+    \hline 
+    \vspace{-4pt}    
+\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+    \item Developed a \textbf{Crypto Arbitrage Bot} to execute trading strategies between Perpetual Protocol and FTX exchange
+    \item Designed an \textbf{MEV front-running bot} to identify and execute the sandwich trades from the \textbf{Ethereum mempool}
+\end{itemize}
+\vspace{-6pt}
+ \textbf{Anomaly Detection in Time Series Data} $|$  \textit{Self Project} \hfill{\sl \small (June 2021)} \\
+    \vspace{-0.3cm}
+    \hline 
+    \vspace{-4pt}    
+\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+    \item Preprocessed \textbf{S\&P 500 Index} data to design and train \textbf{LSTM autoencoder} using \textbf{keras} to detect anomalies
+    \item Created interactive charts and plots with \textbf{Plotly} and \textbf{Seaborn} to analyze the data and sudden change in prices
+\end{itemize}
+\vspace{-6pt}
+\textbf{Art Generation with Neural Style Transfer} $|$  \textit{Self Project} \hfill{\sl \small (July 2021)} \\
+    \vspace{-0.3cm}
+    \hline 
+    \vspace{-4pt}    
+\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+    \item Implemented neural style transfer in TensorFlow using \textbf{VGG19 architecture} for merging content and style image
+    \item Computed content cost function using one hidden layer’s activations and style cost function using the \textbf{Gram matrix}
+\end{itemize}
+\vspace{-6pt}
+     \textbf{Twitter Sentiment Analysis} $|$  \textit{Self Project} \hfill{\sl \small (July 2021)} \\
+    \vspace{-0.3cm}
+    \hline 
+    \vspace{-4pt}    
+\begin{itemize}[label={\textbullet},itemsep = -1 mm, leftmargin=*]
+    \item Handled the \textbf{Twitter API} for scraping tweets for analysing and categorising content like date, source, \& retweets
+    \item Performed sentiment analysis on scraped tweets using Textblob, which uses NLP to categorise tweets into 3 polarities
+\end{itemize}
+
+\vspace{-24pt}
+% ---------------- POR 1 ---------------------------------------
+\section*{\color{ceruleanblue}Positions Of Responsibility\xfilll[0pt]{0.5pt}}
+\vspace*{-9pt}
+	\textbf{Associate Placement Coordinator} $|$ \textit{Institute Placement Team, IIT Bombay} \hfill{\sl \small (Jul’21- Dec’21)}  \\
+	 \vspace{-0.3cm}
+ \hline 
+ \vspace{-6pt}
+ \begin{flushleft}
+ 	\textit{Part of a \textbf{20-membered} managerial team, Executed the end-to-end operations in an online campus placement season}\\
+ \end{flushleft}
+ \vspace{-18pt}
+
+	\begin{itemize}[label={\textbullet},itemsep = -0.8 mm, leftmargin=*]
+         \item Strategized and accomplished the entire \textbf{recruitment process} for \textbf{400+ firms} which impacts \textbf{1900+ students}
+         \item Handled \textbf{10+ International firms} as a single point of contact $|$ Organized \textbf{100+} Tests, \textbf{50+} Pre-Placement Talks 
+         \item Led team of \textbf{200+} Interview coordinators for smooth execution of \textbf{8000+} online campus interviews over 15 days
+         \item Schemed \& achieved \textbf{250+} PPO's from 180+ firms with a \textbf{65\%} y-o-y Increase $|$ Being \textbf{25\%} of the overall recruitment
+         
+\end{itemize}
+\vspace{-6pt}
+\textbf{Institute Sports Convener} $|$ \textit{Institute Sports Council, IIT Bombay} \hfill{\sl \small (Apr’20 - Mar’21)}  \\
+	 \vspace{-0.3cm}
+ \hline 
+ \vspace{-6pt}
+ \begin{flushleft}
+ 	\textit{Part of a 3-tier Sports Council contributing towards ideation, logistics and execution of various institute sports events}\\
+ \end{flushleft}
+ \vspace{-18pt}
+
+	\begin{itemize}[label={\textbullet},itemsep = -0.8 mm, leftmargin=*]      	            
+        \item Pioneered a novel portal for \textbf{IPL Fantasy League} with \textbf{1200+} students’ participation and \textbf{16K+} fantasy teams 
+        \item Organised Virtual Run witnessing \textbf{1.5k+ runners}; raised INR 15K for Rahat, \textbf{COVID relief} campaign by Goonj
+        \item Conducted the Aavhan Online Chess open 2.0 with a prize fund of \textbf{INR 100K} with \textbf{550+} participants across India 
+\end{itemize}
+% ---------------- POR 2 ---------------------------------------
+\vspace{-24pt}
+\section*{\color{ceruleanblue}Technical Skills\xfilll[0pt]{0.5pt}}
+\vspace{-9pt}
+
+\def\arraystretch{1.15}
+\begin{tabular}{p{4.4cm} p{12cm}}
+  \textbf{Programming Languages} & Python, C/C++, JavaScript, Julia, Java, Embedded C, VHDL \\
+  \textbf{Web Development} & HTML, CSS, PHP, SQL, Bootstrap, Web 3.0, Django, Flask \\
+  \textbf{Data Science} & TensorFlow, PyTorch, Keras, OpenCV, SciPy, NumPy, Pandas\\
+  \textbf{Software} & MATLAB, Git, LaTeX, NgSpice, GnuPlot, Docker, Quartus Prime\\
+\end{tabular}
+
+\vspace{-12pt}
+\section*{\color{ceruleanblue}Key Courses Undertaken\xfilll[0pt]{0.5pt}}
+\vspace{-9pt}
+
+\begin{tabular}{p{4.4cm} p{12.8cm}}
+  \textbf{Electrical Engineering} & Signal Processing, Digital Systems, Control Systems, Processor Design, Probability \& Random Processes,  Communication Systems, Microprocessors, Power systems\\
+ %\textbf{Computer Science} & Data Structures \& Algorithms,  Machine Learning, Block Chains \& Cryptocurrencies, Design and Analysis of Algorithms, Image Processing, Operating Systems\\
+  \textbf{Mathematics} & Linear Algebra, Differential Equations, Complex Analysis, Markov Chain\\
+   \textbf{Finance} & Financial Markets, Trading Algorithms, Trading Basics, Private Equity \& Venture Capital, Python \& Statistics for Financial Analysis, Intro to Trading, ML \& GCP\\
+  \textbf{Online Courses} & Data Structures \& Algorithms - Princeton Univ, Machine Learning - Stanford Univ, Data science - IBM, ML for Trading - NYIF, Deep Learning - Deeplearning.ai
+\end{tabular}
+
+
+\vspace{-12pt}
+\section*{\color{ceruleanblue}Extracurricular Activities \xfilll[0pt]{0.5pt}}
+\vspace{-9pt}
+ \begin{tabular}{ p{1.60cm}|p{15.50cm} }
+ \hline
+\vspace{1pt}\hspace{-2pt}\textbf{Sports} &  \begin{itemize}[label={\textbullet},itemsep = -1.30mm, leftmargin=*]
+    \vspace{-0.5cm}
+    \item Represented Andhra Pradesh \textbf{State Cricket team} in the South Zone, Inter-State U-16 tournament
+    \item Selected for highly competitive \textbf{Inter IIT Cricket} Camp consisting of top 25 players in the institute
+    \item Bagged \textbf{Gold medal} in Excelsior Cricket, Inter college cricket tournament, held at Dadar, Mumbai
+
+     
+    \vspace{-10pt}
+\end{itemize} \\
+\hline
+\vspace{0pt}\hspace{-2pt}\nohyphens{\textbf{Technical}}&  \begin{itemize}[label={\textbullet},itemsep = -1.30mm, leftmargin=*]
+    \vspace{-0.5cm}
+    \item Developed API for \textbf{English Primer League} stats and \textbf{Verified} Discord Chat Bot for Cricket stats
+    \item Mentored and guided the \textbf{25+ students} across the Institute Technical Summer Project (ITSP)
+    %\item \textbf{Programming/Frameworks:} Python, C, C++, JavaScript, SQL, Tensorflow, PyTorch, Flask
+
+    \vspace{-10pt}
+\end{itemize}\\
+\hline
+\vspace{0pt}\hspace{-2pt}\nohyphens{\textbf{Social}}&  \begin{itemize}[label={\textbullet},itemsep = -1.30mm, leftmargin=*]
+    \vspace{-0.5cm}
+    \item Organized E-Cell \textbf{Virtual Stock Market} Event targeting \textbf{1500+ students} across the pan India
+    \item Assisted in creating a \textbf{Virtual platform} resembling the institution for the \textbf{online convocation}
+    
+    \vspace{-10pt}
+\end{itemize}\\
+\hline
+\vspace{-7pt}\hspace{-2pt}\nohyphens{\textbf{Interests}}&  \begin{itemize}[label={\textbullet},itemsep = -1.30mm, leftmargin=*]
+    \vspace{-0.5cm}
+     \item Football (Manchester United), Cricket, Travel, Photography, Voluntaring, Algorithmic Trading
+     
+     \vspace{-10pt}
+\end{itemize} \\
+\hline
+
+\end{tabular}
+
+\end{document}
+
+
