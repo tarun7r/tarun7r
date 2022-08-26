@@ -29,13 +29,10 @@ I’m Tarun, a final year undergraduate pursuing a major in Electrical Engineeri
 ###### (In no perticular ordering)
 
 ## Stats
+[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun7r&theme=tokyonight)](https://github.com/tarun7r/)
 
-[![Laxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarun7r&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/tarun7r/)
+[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarun7r&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/tarun7r/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarun7r&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/tarun7r/)
-
-
- 
  
  
 
