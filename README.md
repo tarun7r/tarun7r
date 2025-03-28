@@ -1,7 +1,7 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I’m Tarun, a recent graduate from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a> where I majored in Electrical Engineering. I'm thrilled to kickstart my career as a Data Scientist at Jio Platforms Limited, I love to play Cricket and Football <3; 
 
-<p><a href="https://www.linkedin.com/in/tarunsai07/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/tarun_r9/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="mailto:tarunsaiaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
+<p><a href="https://www.linkedin.com/in/tarunsai07/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/tarun_7r/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="mailto:tarunsaiaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
 <p><a href="https://tarun7r.github.io/"> Check out my website</a></p>
 
 ## Languages and Tools
