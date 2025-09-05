@@ -1,12 +1,15 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I’m Tarun, a recent graduate from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a> where I majored in Electrical Engineering. I'm thrilled to kickstart my career as a Data Scientist, I love to play Cricket and Football <3; 
 
-**Actively seeking opportunities** as an **ML Engineer II / Data Scientist II** where I can contribute to building production-ready AI/ML systems.  
+I'm **Tarun**, a passionate Data Scientist and ML Engineer with **2+ years of experience** building production-ready AI/ML systems. I graduated from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a> with a degree in Electrical Engineering.
+
+**Actively seeking opportunities** as an **ML Engineer II / Data Scientist II**
 
 **Reach me here:**  
-<p><a href="www.linkedin.com/in/tarunsaigoddu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:tarunsaiaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
+<p><a href="https://www.linkedin.com/in/tarunsaigoddu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:tarunsaiaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
 
-## Languages and Tools
+---
+
+## 🛠️ Languages and Tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -28,7 +31,9 @@ I’m Tarun, a recent graduate from the <a href="https://www.iitb.ac.in/">Indian
 
 ###### (In no perticular ordering)
 
-## Stats
-[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun7r&theme=tokyonight)](https://github.com/tarun7r/)
- 
+## 📊 GitHub Stats
 
+[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun7r&theme=tokyonight)](https://github.com/tarun7r/)
+
+---
+*Always learning, always building!*
