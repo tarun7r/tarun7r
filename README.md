@@ -2,7 +2,7 @@
 
 I'm **Tarun**, a passionate Data Scientist and ML Engineer with **2+ years of experience** building production-ready AI/ML systems. I graduated from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a> with a degree in Electrical Engineering.
 
-**Actively seeking opportunities** as an **ML Engineer II / Data Scientist II** ( 2 Months Notice Period )
+**Actively seeking opportunities** as an **ML Engineer II / Data Scientist II**
 
 **Reach me here:**  
 <p><a href="https://www.linkedin.com/in/tarunsaigoddu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:tarunsaiaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
